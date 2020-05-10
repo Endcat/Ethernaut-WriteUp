@@ -5,3 +5,5 @@ Ethernaut's smart contract wargame write-up collection
 有不明白的地方联系我 欢迎一起学习
 
 writeup都经过了实际测试通过（2020/05/10）
+
+有题目更新了没做的 务必务必务必告诉我！！！ 我立马去做
